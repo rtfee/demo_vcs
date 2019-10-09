@@ -17,7 +17,7 @@ terraform {
     hostname = "my.scalr.com:443"
     organization = "org-sgncvo4mr5l4na0"
     workspaces {
-      name = "cli_test"
+      name = "vcs_cost_demo"
     }
   }
 }
